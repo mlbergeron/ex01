@@ -15,10 +15,6 @@ par Martine Bergeron
 **Categories**: exercice, modulo
 
 
-Le fichier README.md d'un projet doit contenir le nom du cours, 
-votre nom et le titre de l'exercice.
-
-
 ##Description 
 
 	Write a program that prints the numbers from 1 to 100. 
@@ -29,10 +25,9 @@ votre nom et le titre de l'exercice.
  	
  	For numbers which are multiples of both three and five print “FizzBuzz”.
 
-L'exercice peut être retrouvé sur [GitHub] (https://github.com/Ivo-Balbaert/mastering_dart_by_projects.git).
+L'exercice peut être retrouvé sur [GitHub] (https://github.com/mlbergeron/ex01.git).
 
 Basé sur le projet de Ivo Balbaert, chapitre 1 - [prorabbits_v2] (https://github.com/Ivo-Balbaert/mastering_dart_by_projects.git).
-
 
 
 
